@@ -1,0 +1,30 @@
+****De préférence se connecter via navigateur Chrome*****
+
+BDD locale : 
+nom dentalya
+codage  ucs2_unicode_ci
+
+
+chemain d'install locale :
+C:\wamp64\www
+
+nom de dossier : dentalya
+
+
+Titre du site : Dentalya     voir captures
+email . ifri.tech
+mot de passe : Dentalya@242424
+-----------------------------------
+login wordpress local : http://localhost:81/dentalya/wp-admin/
+Login : dentalya24
+passe Dentalya@242424
+---------------------
+
+Pour créer une nouvelle BDD :
+
+http://localhost:81/phpmyadmin
+local database : 
+
+login : root
+mdp :   (rien)
+prefix : ps_
