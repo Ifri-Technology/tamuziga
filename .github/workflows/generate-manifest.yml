@@ -1,0 +1,34 @@
+name: Régénérer manifest.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "images/**/full/*.webp"
+
+jobs:
+  build-manifest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # nécessaire pour que le job puisse commit/push
+
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install Pillow
+
+      - name: Générer manifest.json + miniatures manquantes
+        run: python .github/scripts/generate_manifest.py
+
+      - name: Commit et push des fichiers générés
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: régénération auto du manifest.json et des miniatures"
+          file_pattern: "manifest.json images/**/thumbs/*.webp"
