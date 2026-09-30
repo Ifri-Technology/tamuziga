@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "last_updated": "2026-09-30",
+  "categories": [
+    {
+      "id": "cats",
+      "name": "Cats",
+      "wallpapers": [
+        {
+          "id": "Cats",
+          "title": "Cats",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Cats.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Cats.webp",
+          "width": 1440,
+          "height": 2279,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Cats_2",
+          "title": "Cats_2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Cats_2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Cats_2.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Colored",
+          "title": "Colored",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Colored.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Colored.webp",
+          "width": 1440,
+          "height": 2545,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Colored_2",
+          "title": "Colored_2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Colored_2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Colored_2.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Cut_Cat",
+          "title": "Cut_cat",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Cut_Cat.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Cut_Cat.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Girl",
+          "title": "Girl",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Girl.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Girl.webp",
+          "width": 1440,
+          "height": 2580,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Gravure",
+          "title": "Gravure",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Gravure.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Gravure.webp",
+          "width": 1440,
+          "height": 2521,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Take_it_easy",
+          "title": "Take_it_easy",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Take_it_easy.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Take_it_easy.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Timide",
+          "title": "Timide",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/Timide.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/Timide.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "cats",
+          "title": "Butter Fly",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/thumbs/cats__Butter-Fly.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/cats/full/cats__Butter-Fly.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "cats"
+          ],
+          "added_at": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "wallpapers": [
+        {
+          "id": "Blue",
+          "title": "Blue",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Blue.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Blue.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Blues",
+          "title": "Blues",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Blues.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Blues.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Cerises",
+          "title": "Cerises",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Cerises.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Cerises.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Coeurs_Rouges",
+          "title": "Coeurs_rouges",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Coeurs_Rouges.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Coeurs_Rouges.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Flower_1",
+          "title": "Flower_1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Flower_1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Flower_1.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Flower_2",
+          "title": "Flower_2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Flower_2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Flower_2.webp",
+          "width": 1440,
+          "height": 2568,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Flower_3",
+          "title": "Flower_3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Flower_3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Flower_3.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Flower_4",
+          "title": "Flower_4",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Flower_4.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Flower_4.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Flowers_5",
+          "title": "Flowers_5",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Flowers_5.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Flowers_5.webp",
+          "width": 1440,
+          "height": 2541,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Flowers_6",
+          "title": "Flowers_6",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/thumbs/Flowers_6.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/flowers/full/Flowers_6.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "flowers"
+          ],
+          "added_at": "2026-09-30"
+        }
+      ]
+    },
+    {
+      "id": "monuments",
+      "name": "Monuments",
+      "wallpapers": [
+        {
+          "id": "Ciel_LUNE",
+          "title": "Ciel_lune",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Ciel_LUNE.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Ciel_LUNE.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Collizium",
+          "title": "Collizium",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Collizium.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Collizium.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Lanternes",
+          "title": "Lanternes",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Lanternes.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Lanternes.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Londre_1",
+          "title": "Londre_1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Londre_1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Londre_1.webp",
+          "width": 1440,
+          "height": 2520,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Rue_Paris",
+          "title": "Rue_paris",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Rue_Paris.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Rue_Paris.webp",
+          "width": 1440,
+          "height": 2471,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel",
+          "title": "Tour_eiffel",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel.webp",
+          "width": 1440,
+          "height": 2569,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_2",
+          "title": "Tour_eiffel_2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_2.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_3",
+          "title": "Tour_eiffel_3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_3.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_4",
+          "title": "Tour_eiffel_4",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_4.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_4.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_5",
+          "title": "Tour_eiffel_5",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_5.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_5.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_6",
+          "title": "Tour_eiffel_6",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_6.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_6.webp",
+          "width": 1440,
+          "height": 2559,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_7",
+          "title": "Tour_eiffel_7",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_7.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_7.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        }
+      ]
+    }
+  ]
+}
