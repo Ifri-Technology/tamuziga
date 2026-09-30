@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "last_updated": "2026-09-30",
   "categories": [
     {
@@ -395,6 +395,18 @@
           "title": "Tour_eiffel_7",
           "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_7.webp",
           "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_7.webp",
+          "width": 1440,
+          "height": 2560,
+          "tags": [
+            "monuments"
+          ],
+          "added_at": "2026-09-30"
+        },
+        {
+          "id": "Tour_Eiffel_Copie",
+          "title": "Tour_eiffel_copie",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_Copie.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_Copie.webp",
           "width": 1440,
           "height": 2560,
           "tags": [
