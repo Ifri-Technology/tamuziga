@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "images/**/full/*.webp"
+  workflow_dispatch:   # permet de lancer le workflow manuellement depuis l'onglet Actions
 
 jobs:
   build-manifest:
