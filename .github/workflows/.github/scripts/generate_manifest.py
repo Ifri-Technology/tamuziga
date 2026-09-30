@@ -13,6 +13,11 @@ de métadonnées séparé) :
 Si un fichier n'a pas de "__", son nom (sans extension) sert d'id,
 et le titre est dérivé automatiquement.
 
+Le champ "added_at" de chaque wallpaper est repris de l'ancien manifest.json
+s'il existait déjà (pour ne pas perdre sa date d'ajout à chaque régénération),
+sinon il est fixé à la date du jour lors de sa première apparition. C'est ce
+champ que l'appli utilise pour trier la section "Featured" (les plus récents).
+
 Ce script est prévu pour être lancé depuis la racine du repo, par exemple :
     python .github/scripts/generate_manifest.py
 """
@@ -23,7 +28,7 @@ from pathlib import Path
 
 from PIL import Image
 
-# --- Config à adapter à ton repo ---
+# --- Config adaptée à ton repo ---
 GITHUB_USER = "Ifri-Technology"
 GITHUB_REPO = "tamuziga"
 BRANCH = "main"
@@ -64,6 +69,26 @@ def ensure_thumbnail(full_path: Path, thumb_path: Path) -> None:
         thumb.save(thumb_path, "WEBP", quality=70)
 
 
+def load_previous_added_at() -> dict:
+    """Retourne {wallpaper_id: added_at} à partir de l'ancien manifest.json,
+    pour conserver la date d'ajout d'un wallpaper déjà connu d'un run à l'autre."""
+    if not MANIFEST_PATH.exists():
+        return {}
+    try:
+        old_manifest = json.loads(MANIFEST_PATH.read_text())
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+    added_at_by_id = {}
+    for category in old_manifest.get("categories", []):
+        for wallpaper in category.get("wallpapers", []):
+            wid = wallpaper.get("id")
+            added_at = wallpaper.get("added_at")
+            if wid and added_at:
+                added_at_by_id[wid] = added_at
+    return added_at_by_id
+
+
 def build_manifest() -> None:
     # récupère l'ancienne version pour l'incrémenter (sert de cache-buster
     # côté appli : si version n'a pas changé, l'appli garde son manifest local)
@@ -73,6 +98,9 @@ def build_manifest() -> None:
             old_version = json.loads(MANIFEST_PATH.read_text()).get("version", 0)
         except (json.JSONDecodeError, OSError):
             old_version = 0
+
+    previous_added_at = load_previous_added_at()
+    today = date.today().isoformat()
 
     categories = []
 
@@ -93,6 +121,10 @@ def build_manifest() -> None:
             rel_full = img_path.relative_to(REPO_ROOT).as_posix()
             rel_thumb = thumb_path.relative_to(REPO_ROOT).as_posix()
 
+            # conserve la date d'ajout d'origine si ce wallpaper existait déjà,
+            # sinon c'est une nouvelle entrée -> date du jour
+            added_at = previous_added_at.get(wid, today)
+
             wallpapers.append({
                 "id": wid,
                 "title": title,
@@ -101,6 +133,7 @@ def build_manifest() -> None:
                 "width": width,
                 "height": height,
                 "tags": [cat_dir.name],
+                "added_at": added_at,
             })
 
         if wallpapers:
@@ -112,7 +145,7 @@ def build_manifest() -> None:
 
     manifest = {
         "version": old_version + 1,
-        "last_updated": date.today().isoformat(),
+        "last_updated": today,
         "categories": categories,
     }
 
