@@ -1,11 +1,167 @@
 {
-  "version": 4,
+  "version": 5,
   "last_updated": "2026-10-01",
   "categories": [
     {
       "id": "abstract",
       "name": "Abstract",
       "wallpapers": [
+        {
+          "id": "Big-ben-2",
+          "title": "Big ben 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Big-ben-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Big-ben-2.webp",
+          "width": 1536,
+          "height": 2304,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Big-ben",
+          "title": "Big ben",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Big-ben.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Big-ben.webp",
+          "width": 1512,
+          "height": 3024,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Clock",
+          "title": "Clock",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Clock.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Clock.webp",
+          "width": 1472,
+          "height": 3188,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Date-in-paris",
+          "title": "Date in paris",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Date-in-paris.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Date-in-paris.webp",
+          "width": 1472,
+          "height": 2458,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "First-date",
+          "title": "First date",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/First-date.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/First-date.webp",
+          "width": 1472,
+          "height": 2208,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Guitariste-en-rue",
+          "title": "Guitariste en rue",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Guitariste-en-rue.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Guitariste-en-rue.webp",
+          "width": 1472,
+          "height": 2944,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Lanterne-en-jardin",
+          "title": "Lanterne en jardin",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Lanterne-en-jardin.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Lanterne-en-jardin.webp",
+          "width": 1459,
+          "height": 2595,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Lanternes-abstrait",
+          "title": "Lanternes abstrait",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Lanternes-abstrait.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Lanternes-abstrait.webp",
+          "width": 1472,
+          "height": 2624,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Moon-by-night-2",
+          "title": "Moon by night 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Moon-by-night-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Moon-by-night-2.webp",
+          "width": 1472,
+          "height": 2632,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Moon-by-night-3",
+          "title": "Moon by night 3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Moon-by-night-3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Moon-by-night-3.webp",
+          "width": 1472,
+          "height": 2402,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Moon-by-night",
+          "title": "Moon by night",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Moon-by-night.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Moon-by-night.webp",
+          "width": 1472,
+          "height": 2596,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Moons",
+          "title": "Moons",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Moons.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Moons.webp",
+          "width": 1463,
+          "height": 2925,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "Princesse",
+          "title": "Princesse",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/Princesse.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/Princesse.webp",
+          "width": 1472,
+          "height": 2640,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
         {
           "id": "abstract",
           "title": "Clock__clock+montre+rue+automne",
@@ -557,18 +713,6 @@
           "title": "Tour_eiffel_7",
           "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_7.webp",
           "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_7.webp",
-          "width": 1440,
-          "height": 2560,
-          "tags": [
-            "monuments"
-          ],
-          "added_at": "2026-09-30"
-        },
-        {
-          "id": "Tour_Eiffel_Copie",
-          "title": "Tour_eiffel_copie",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/thumbs/Tour_Eiffel_Copie.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/monuments/full/Tour_Eiffel_Copie.webp",
           "width": 1440,
           "height": 2560,
           "tags": [
