@@ -3,20 +3,23 @@
 Scanne images/<categorie>/full/*.webp, génère les miniatures manquantes dans
 images/<categorie>/thumbs/, et régénère manifest.json à la racine du repo.
 
-Convention de nommage des fichiers (permet d'avoir un titre sans fichier
+Convention de nommage des fichiers (permet d'avoir titre + tags sans fichier
 de métadonnées séparé) :
 
-    <id>__<Titre-Avec-Tirets>.webp
-    ex: callig-001__Bismillah-moderne.webp
-        -> id="callig-001", titre="Bismillah moderne"
+    id.webp
+    id__Titre-Avec-Tirets.webp
+    id__Titre-Avec-Tirets__tag1+tag2+tag3.webp
 
-Si un fichier n'a pas de "__", son nom (sans extension) sert d'id,
-et le titre est dérivé automatiquement.
+Exemple :
+    callig-003__Verset-du-trone__vert+doré+islamique.webp
+    -> id="callig-003", titre="Verset du trone", tags custom=["vert","doré","islamique"]
+
+Le tag du nom de la catégorie (ex. "calligraphie-arabe") est toujours ajouté
+automatiquement en plus des tags custom éventuels.
 
 Le champ "added_at" de chaque wallpaper est repris de l'ancien manifest.json
 s'il existait déjà (pour ne pas perdre sa date d'ajout à chaque régénération),
-sinon il est fixé à la date du jour lors de sa première apparition. C'est ce
-champ que l'appli utilise pour trier la section "Featured" (les plus récents).
+sinon il est fixé à la date du jour lors de sa première apparition.
 
 Ce script est prévu pour être lancé depuis la racine du repo, par exemple :
     python .github/scripts/generate_manifest.py
@@ -46,14 +49,23 @@ def slug_to_name(slug: str) -> str:
 
 
 def parse_filename(filename: str):
+    """
+    Retourne (id, titre, tags_custom) à partir du nom de fichier.
+    Supporte 1, 2 ou 3 segments séparés par "__" (voir docstring du module).
+    """
     stem = Path(filename).stem
-    if "__" in stem:
-        id_part, title_part = stem.split("__", 1)
-        title = title_part.replace("-", " ")
-    else:
-        id_part = stem
-        title = slug_to_name(stem)
-    return id_part, title
+    parts = stem.split("__")
+
+    id_part = parts[0]
+    title = slug_to_name(id_part)
+    custom_tags: list[str] = []
+
+    if len(parts) >= 2 and parts[1]:
+        title = parts[1].replace("-", " ")
+    if len(parts) >= 3 and parts[2]:
+        custom_tags = [t.strip().lower() for t in parts[2].split("+") if t.strip()]
+
+    return id_part, title, custom_tags
 
 
 def ensure_thumbnail(full_path: Path, thumb_path: Path) -> None:
@@ -90,8 +102,6 @@ def load_previous_added_at() -> dict:
 
 
 def build_manifest() -> None:
-    # récupère l'ancienne version pour l'incrémenter (sert de cache-buster
-    # côté appli : si version n'a pas changé, l'appli garde son manifest local)
     old_version = 0
     if MANIFEST_PATH.exists():
         try:
@@ -111,7 +121,7 @@ def build_manifest() -> None:
 
         wallpapers = []
         for img_path in sorted(full_dir.glob("*.webp")):
-            wid, title = parse_filename(img_path.name)
+            wid, title, custom_tags = parse_filename(img_path.name)
             thumb_path = cat_dir / "thumbs" / img_path.name
             ensure_thumbnail(img_path, thumb_path)
 
@@ -121,9 +131,10 @@ def build_manifest() -> None:
             rel_full = img_path.relative_to(REPO_ROOT).as_posix()
             rel_thumb = thumb_path.relative_to(REPO_ROOT).as_posix()
 
-            # conserve la date d'ajout d'origine si ce wallpaper existait déjà,
-            # sinon c'est une nouvelle entrée -> date du jour
             added_at = previous_added_at.get(wid, today)
+
+            # tag de catégorie toujours présent, + tags custom sans doublon
+            tags = [cat_dir.name] + [t for t in custom_tags if t != cat_dir.name]
 
             wallpapers.append({
                 "id": wid,
@@ -132,7 +143,7 @@ def build_manifest() -> None:
                 "full_url": f"{CDN_BASE}/{rel_full}",
                 "width": width,
                 "height": height,
-                "tags": [cat_dir.name],
+                "tags": tags,
                 "added_at": added_at,
             })
 
