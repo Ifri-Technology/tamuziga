@@ -1,7 +1,169 @@
 {
-  "version": 3,
-  "last_updated": "2026-09-30",
+  "version": 4,
+  "last_updated": "2026-10-01",
   "categories": [
+    {
+      "id": "abstract",
+      "name": "Abstract",
+      "wallpapers": [
+        {
+          "id": "abstract",
+          "title": "Clock__clock+montre+rue+automne",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__Clock__clock+montre+rue+automne.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__Clock__clock+montre+rue+automne.webp",
+          "width": 1472,
+          "height": 3188,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "Guitariste en rue__guitar+rue+lune",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__Guitariste-en-rue__guitar+rue+lune.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__Guitariste-en-rue__guitar+rue+lune.webp",
+          "width": 1472,
+          "height": 2944,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "Lanterne en jardin__automne+lanterne+jardin",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__Lanterne-en-jardin__automne+lanterne+jardin.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__Lanterne-en-jardin__automne+lanterne+jardin.webp",
+          "width": 1459,
+          "height": 2595,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "Lanternes abstrait__automne+lanterne+surealiste",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__Lanternes-abstrait__automne+lanterne+surealiste.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__Lanternes-abstrait__automne+lanterne+surealiste.webp",
+          "width": 1472,
+          "height": 2624,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "Princesse__lanterne+princesse+abstrait+lumière",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__Princesse__lanterne+princesse+abstrait+lumière.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__Princesse__lanterne+princesse+abstrait+lumière.webp",
+          "width": 1472,
+          "height": 2640,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "big ben 2__london+hiver+bus+tableau+automne",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__big-ben-2__london+hiver+bus+tableau+automne.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__big-ben-2__london+hiver+bus+tableau+automne.webp",
+          "width": 1536,
+          "height": 2304,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "big ben__london+hiver+bus+tableau",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__big-ben__london+hiver+bus+tableau.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__big-ben__london+hiver+bus+tableau.webp",
+          "width": 1512,
+          "height": 3024,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "date in paris__date+paris+toure eiffel+hiver",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__date-in-paris__date+paris+toure-eiffel+hiver.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__date-in-paris__date+paris+toure-eiffel+hiver.webp",
+          "width": 1472,
+          "height": 2458,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "first date__tableau+peinture+suréel",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__first-date__tableau+peinture+suréel.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__first-date__tableau+peinture+suréel.webp",
+          "width": 1472,
+          "height": 2208,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "moon by night 2__moon+lune+ciel+nuit+tableau",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__moon-by-night-2__moon+lune+ciel+nuit+tableau.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__moon-by-night-2__moon+lune+ciel+nuit+tableau.webp",
+          "width": 1472,
+          "height": 2632,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "moon by night 3__moon+lune+ciel+nuit+tableau",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__moon-by-night-3__moon+lune+ciel+nuit+tableau.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__moon-by-night-3__moon+lune+ciel+nuit+tableau.webp",
+          "width": 1472,
+          "height": 2402,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "moon by night__moon+lune+ciel+nuit+tableau",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__moon-by-night__moon+lune+ciel+nuit+tableau.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__moon-by-night__moon+lune+ciel+nuit+tableau.webp",
+          "width": 1472,
+          "height": 2596,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        },
+        {
+          "id": "abstract",
+          "title": "moons__lune+moon+tableau",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__moons__lune+moon+tableau.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__moons__lune+moon+tableau.webp",
+          "width": 1463,
+          "height": 2925,
+          "tags": [
+            "abstract"
+          ],
+          "added_at": "2026-10-01"
+        }
+      ]
+    },
     {
       "id": "cats",
       "name": "Cats",
