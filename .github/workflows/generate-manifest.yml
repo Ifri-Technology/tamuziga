@@ -33,3 +33,6 @@ jobs:
         with:
           commit_message: "chore: régénération auto du manifest.json et des miniatures"
           file_pattern: "manifest.json images/**/thumbs/*.webp"
+
+      - name: Purger le cache jsDelivr pour manifest.json
+        run: curl -s "https://purge.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/manifest.json"
