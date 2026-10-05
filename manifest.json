@@ -1,7 +1,73 @@
 {
-  "version": 9,
+  "version": 10,
   "last_updated": "2026-10-05",
   "categories": [
+    {
+      "id": "Tagherma",
+      "name": "Tagherma",
+      "wallpapers": [
+        {
+          "id": "AZA-1",
+          "title": "Aza 1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/AZA-1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/AZA-1.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "AZA-4",
+          "title": "Aza 4",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/AZA-4.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/AZA-4.webp",
+          "width": 1722,
+          "height": 3060,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tamghart-1",
+          "title": "Tamghart 1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tamghart-1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tamghart-1.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tamghart-AZA",
+          "title": "Tamghart aza",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tamghart-AZA.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tamghart-AZA.webp",
+          "width": 1448,
+          "height": 2575,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tamghart-tagherma",
+          "title": "Tamghart tagherma",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tamghart-tagherma.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tamghart-tagherma.webp",
+          "width": 1440,
+          "height": 2558,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        }
+      ]
+    },
     {
       "id": "abstract",
       "name": "Abstract",
