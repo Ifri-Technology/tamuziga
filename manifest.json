@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "last_updated": "2026-10-05",
   "categories": [
     {
@@ -91,12 +91,60 @@
           "added_at": "2026-10-05"
         },
         {
+          "id": "Tamghart-g-tahendirt-2",
+          "title": "Tamghart g tahendirt 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tamghart-g-tahendirt-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tamghart-g-tahendirt-2.webp",
+          "width": 1440,
+          "height": 2558,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tamghart-g-tahendirt",
+          "title": "Tamghart g tahendirt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tamghart-g-tahendirt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tamghart-g-tahendirt.webp",
+          "width": 1440,
+          "height": 2558,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
           "id": "Tamghart-tagherma",
           "title": "Tamghart tagherma",
           "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tamghart-tagherma.webp",
           "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tamghart-tagherma.webp",
           "width": 1440,
           "height": 2558,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tazerbit-1",
+          "title": "Tazerbit 1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tazerbit-1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tazerbit-1.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tazerbit-2",
+          "title": "Tazerbit 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tazerbit-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tazerbit-2.webp",
+          "width": 1444,
+          "height": 2587,
           "tags": [
             "Tagherma"
           ],
