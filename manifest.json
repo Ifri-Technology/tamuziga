@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "last_updated": "2026-10-05",
   "categories": [
     {
@@ -19,12 +19,48 @@
           "added_at": "2026-10-05"
         },
         {
+          "id": "AZA-2",
+          "title": "Aza 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/AZA-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/AZA-2.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "AZA-3",
+          "title": "Aza 3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/AZA-3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/AZA-3.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
           "id": "AZA-4",
           "title": "Aza 4",
           "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/AZA-4.webp",
           "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/AZA-4.webp",
           "width": 1722,
           "height": 3060,
+          "tags": [
+            "Tagherma"
+          ],
+          "added_at": "2026-10-05"
+        },
+        {
+          "id": "Tahendirt",
+          "title": "Tahendirt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/thumbs/Tahendirt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma/full/Tahendirt.webp",
+          "width": 1444,
+          "height": 2587,
           "tags": [
             "Tagherma"
           ],
@@ -72,22 +108,6 @@
       "id": "abstract",
       "name": "Abstract",
       "wallpapers": [
-        {
-          "id": "abstract",
-          "title": "Clock",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/thumbs/abstract__Clock__clock+montre+rue+automne.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/abstract/full/abstract__Clock__clock+montre+rue+automne.webp",
-          "width": 1472,
-          "height": 3188,
-          "tags": [
-            "abstract",
-            "clock",
-            "montre",
-            "rue",
-            "automne"
-          ],
-          "added_at": "2026-10-01"
-        },
         {
           "id": "abstract",
           "title": "Guitariste en rue",
