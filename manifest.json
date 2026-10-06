@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "last_updated": "2026-10-06",
   "categories": [
     {
@@ -149,6 +149,168 @@
             "Tagherma"
           ],
           "added_at": "2026-10-05"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "name": "Art",
+      "wallpapers": [
+        {
+          "id": "Big-ben-2",
+          "title": "Big ben 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Big-ben-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Big-ben-2.webp",
+          "width": 1536,
+          "height": 2304,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Big-ben",
+          "title": "Big ben",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Big-ben.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Big-ben.webp",
+          "width": 1512,
+          "height": 3024,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Clock",
+          "title": "Clock",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Clock.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Clock.webp",
+          "width": 1472,
+          "height": 3188,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Date-in-paris",
+          "title": "Date in paris",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Date-in-paris.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Date-in-paris.webp",
+          "width": 1472,
+          "height": 2458,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "First-date",
+          "title": "First date",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/First-date.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/First-date.webp",
+          "width": 1472,
+          "height": 2208,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Guitariste-en-rue",
+          "title": "Guitariste en rue",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Guitariste-en-rue.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Guitariste-en-rue.webp",
+          "width": 1472,
+          "height": 2944,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Lanterne-en-jardin",
+          "title": "Lanterne en jardin",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Lanterne-en-jardin.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Lanterne-en-jardin.webp",
+          "width": 1459,
+          "height": 2595,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Lanternes-abstrait",
+          "title": "Lanternes abstrait",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Lanternes-abstrait.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Lanternes-abstrait.webp",
+          "width": 1472,
+          "height": 2624,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Moon-by-night-2",
+          "title": "Moon by night 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Moon-by-night-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Moon-by-night-2.webp",
+          "width": 1472,
+          "height": 2632,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Moon-by-night-3",
+          "title": "Moon by night 3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Moon-by-night-3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Moon-by-night-3.webp",
+          "width": 1472,
+          "height": 2402,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Moon-by-night",
+          "title": "Moon by night",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Moon-by-night.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Moon-by-night.webp",
+          "width": 1472,
+          "height": 2596,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Moons",
+          "title": "Moons",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Moons.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Moons.webp",
+          "width": 1463,
+          "height": 2925,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
+        },
+        {
+          "id": "Princesse",
+          "title": "Princesse",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/thumbs/Princesse.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/art/full/Princesse.webp",
+          "width": 1472,
+          "height": 2640,
+          "tags": [
+            "art"
+          ],
+          "added_at": "2026-10-06"
         }
       ]
     },
