@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "last_updated": "2026-10-06",
+  "videos": [
+    {
+      "id": "vid-001",
+      "youtube_id": "gqL4oSCOlkk",
+      "title": "Amnay — Anzul Blues (chanson amazighe)",
+      "added_at": "2026-09-20"
+    },
+    {
+      "id": "vid-002",
+      "youtube_id": "AodH1QzQ0QE",
+      "title": "Yennayer — Le Nouvel An amazigh expliqué",
+      "added_at": "2026-09-25"
+    },
+    {
+      "id": "vid-003",
+      "youtube_id": "bvFrCulCvgM",
+      "title": "Tinariwen — Toumast Tincha",
+      "added_at": "2026-09-28"
+    },
+    {
+      "id": "vid-004",
+      "youtube_id": "uUS0-0Fv7c8",
+      "title": "Tinariwen — Concert complet au festival WOMAD",
+      "added_at": "2026-10-01"
+    },
+    {
+      "id": "vid-005",
+      "youtube_id": "xnrj9YbodxE",
+      "title": "Ahidous — Groupe Jeunesse Tizwite (danse des abeilles)",
+      "added_at": "2026-10-04"
+    },
+    {
+      "id": "vid-006",
+      "youtube_id": "JyFX52HoekU",
+      "title": "Idir — Retour sur la carrière d'une légende kabyle",
+      "added_at": "2026-10-06"
+    }
+  ]
+}
