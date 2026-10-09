@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "last_updated": "2026-10-06",
+  "version": 3,
+  "last_updated": "2026-10-09",
   "videos": [
     {
       "id": "vid-001",
@@ -10,9 +10,9 @@
     },
     {
       "id": "vid-002",
-      "youtube_id": "AodH1QzQ0QE",
-      "title": "Yennayer — Le Nouvel An amazigh expliqué",
-      "added_at": "2026-09-25"
+      "youtube_id": "K_GxAV2sf7k&list",
+      "title": "AKAL INU By OMAR ELKADALI & ABDELLAH CHERAA et Nina",
+      "added_at": "2019-01-12"
     },
     {
       "id": "vid-003",
@@ -22,9 +22,9 @@
     },
     {
       "id": "vid-004",
-      "youtube_id": "uUS0-0Fv7c8",
-      "title": "Tinariwen — Concert complet au festival WOMAD",
-      "added_at": "2026-10-01"
+      "youtube_id": "8qcSdqc7QYo&list",
+      "title": "Idir - A vava inouva",
+      "added_at": "2014-12-06"
     },
     {
       "id": "vid-005",
@@ -34,9 +34,21 @@
     },
     {
       "id": "vid-006",
-      "youtube_id": "JyFX52HoekU",
-      "title": "Idir — Retour sur la carrière d'une légende kabyle",
-      "added_at": "2026-10-06"
+      "youtube_id": "cvHQ4S6D8Ig&start_radio",
+      "title": "TARWA N AYUR - Amoudou - D2 MUSIC STUDIO LIVE",
+      "added_at": "2021-01-24"
+    },
+	{
+      "id": "vid-007",
+      "youtube_id": "tVhBKzhLwqM&list",
+      "title": "Tasuta N-Imal (ⵜⵏⵉ) - Fadma - ⴼⴰⴹⵎⴰ",
+      "added_at": "2021-08-27"
+    },
+	{
+      "id": "vid-008",
+      "youtube_id": "DBf5_k40EKM&list",
+      "title": "Habib Salam - TAL3ARBAT N TALB",
+      "added_at": "2024-11-29"
     }
   ]
 }
