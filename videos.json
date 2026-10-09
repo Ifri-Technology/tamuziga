@@ -1,12 +1,12 @@
 {
-  "version": 3,
-  "last_updated": "2026-10-08",
+  "version": 4,
+  "last_updated": "2026-10-09",
   "videos": [
     {
       "id": "vid-001",
-      "youtube_id": "gqL4oSCOlkk",
-      "title": "Amnay — Anzul Blues (chanson amazighe)",
-      "added_at": "2026-09-20"
+      "youtube_id": "Rr5FjGRA57M",
+      "title": "Saghru Band Grat d ifassen",
+      "added_at": "2021-03-18"
     },
     {
       "id": "vid-002",
@@ -49,6 +49,18 @@
       "youtube_id": "DBf5_k40EKM&list",
       "title": "Habib Salam - TAL3ARBAT N TALB",
       "added_at": "2024-11-29"
-    }
+    },
+	{
+      "id": "vid-009",
+      "youtube_id": "DBf5_k40EKM&list",
+      "title": "Habib Salam - TAL3ARBAT N TALB",
+      "added_at": "2024-11-29"
+    },
+	{
+      "id": "vid-010",
+      "youtube_id": "HCOeeF5DgWg&list",
+      "title": "TAGHNJA - ⵜⴰⵖⵏⵊⴰ| OUBLAID Anass & Raw Rhythm ",
+      "added_at": "2025-09-24"
+    },
   ]
 }
