@@ -1,7 +1,121 @@
 {
-  "version": 22,
+  "version": 23,
   "last_updated": "2026-10-13",
   "categories": [
+    {
+      "id": "Tamghart - Women",
+      "name": "Tamghart   women",
+      "wallpapers": [
+        {
+          "id": "Ait-Ben-Haddou-2",
+          "title": "Ait ben haddou 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Ait-Ben-Haddou-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Ait-Ben-Haddou-2.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Ait-Ben-Haddou",
+          "title": "Ait ben haddou",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Ait-Ben-Haddou.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Ait-Ben-Haddou.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-1",
+          "title": "Tamghart 1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-1.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-AZA",
+          "title": "Tamghart aza",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-AZA.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-AZA.webp",
+          "width": 1448,
+          "height": 2575,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-g-tahendirt-2",
+          "title": "Tamghart g tahendirt 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-g-tahendirt-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-g-tahendirt-2.webp",
+          "width": 1440,
+          "height": 2558,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-g-tahendirt",
+          "title": "Tamghart g tahendirt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-g-tahendirt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-g-tahendirt.webp",
+          "width": 1440,
+          "height": 2558,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-tagherma",
+          "title": "Tamghart tagherma",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-tagherma.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-tagherma.webp",
+          "width": 1440,
+          "height": 2558,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-tanzrouft",
+          "title": "Tamghart tanzrouft",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-tanzrouft.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-tanzrouft.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tamghart-taqbaylit",
+          "title": "Tamghart taqbaylit",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/thumbs/Tamghart-taqbaylit.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tamghart - Women/full/Tamghart-taqbaylit.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        }
+      ]
+    },
     {
       "id": "cats",
       "name": "Cats",
