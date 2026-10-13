@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "last_updated": "2026-10-13",
   "categories": [
     {
@@ -111,6 +111,180 @@
           "height": 2614,
           "tags": [
             "Tamghart - Women"
+          ],
+          "added_at": "2026-10-13"
+        }
+      ]
+    },
+    {
+      "id": "Tazuri - Art",
+      "name": "Tazuri   art",
+      "wallpapers": [
+        {
+          "id": "AZA-1",
+          "title": "Aza 1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/AZA-1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/AZA-1.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "AZA-2",
+          "title": "Aza 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/AZA-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/AZA-2.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "AZA-3",
+          "title": "Aza 3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/AZA-3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/AZA-3.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "AZA-4",
+          "title": "Aza 4",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/AZA-4.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/AZA-4.webp",
+          "width": 1722,
+          "height": 3060,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Respect-Achenyal",
+          "title": "Respect achenyal",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Respect-Achenyal.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Respect-Achenyal.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Respect",
+          "title": "Respect",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Respect.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Respect.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tahendirt",
+          "title": "Tahendirt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tahendirt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tahendirt.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-1",
+          "title": "Tazerbit 1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-1.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-2",
+          "title": "Tazerbit 2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-2.webp",
+          "width": 1444,
+          "height": 2587,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-3",
+          "title": "Tazerbit 3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-3.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-4",
+          "title": "Tazerbit 4",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-4.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-4.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-5",
+          "title": "Tazerbit 5",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-5.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-5.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-6",
+          "title": "Tazerbit 6",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-6.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-6.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tazerbit-7",
+          "title": "Tazerbit 7",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tazerbit-7.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tazerbit-7.webp",
+          "width": 768,
+          "height": 1376,
+          "tags": [
+            "Tazuri - Art"
           ],
           "added_at": "2026-10-13"
         }
