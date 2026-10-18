@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "last_updated": "2026-10-18",
   "categories": [
     {
@@ -247,6 +247,54 @@
           "added_at": "2026-10-13"
         },
         {
+          "id": "Ajeddig n lhenna",
+          "title": "Ajeddig n lhenna",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Ajeddig n lhenna.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Ajeddig n lhenna.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Ijeddigen",
+          "title": "Ijeddigen",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Ijeddigen.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Ijeddigen.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Irchumen",
+          "title": "Irchumen",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Irchumen.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Irchumen.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Princesse du desert",
+          "title": "Princesse du desert",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Princesse du desert.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Princesse du desert.webp",
+          "width": 1506,
+          "height": 2675,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
           "id": "Respect-Achenyal",
           "title": "Respect achenyal",
           "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Respect-Achenyal.webp",
@@ -269,6 +317,30 @@
             "Tazuri - Art"
           ],
           "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tafoukt",
+          "title": "Tafoukt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tafoukt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tafoukt.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Tagldunt n tanezruft",
+          "title": "Tagldunt n tanezruft",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tagldunt n tanezruft.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tagldunt n tanezruft.webp",
+          "width": 1504,
+          "height": 2675,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
         },
         {
           "id": "Tahendirt",
