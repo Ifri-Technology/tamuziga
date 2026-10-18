@@ -1,7 +1,85 @@
 {
-  "version": 26,
+  "version": 27,
   "last_updated": "2026-10-18",
   "categories": [
+    {
+      "id": "Imucca - Cats",
+      "name": "Imucca   cats",
+      "wallpapers": [
+        {
+          "id": "Amuch azerwal",
+          "title": "Amuch azerwal",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/thumbs/Amuch azerwal.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/full/Amuch azerwal.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Ikwlan",
+          "title": "Ikwlan",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/thumbs/Ikwlan.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/full/Ikwlan.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Krad",
+          "title": "Krad",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/thumbs/Krad.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/full/Krad.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Tachkiwt",
+          "title": "Tachkiwt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/thumbs/Tachkiwt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/full/Tachkiwt.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Takurt",
+          "title": "Takurt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/thumbs/Takurt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/full/Takurt.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Turtit",
+          "title": "Turtit",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/thumbs/Turtit.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Imucca - Cats/full/Turtit.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        }
+      ]
+    },
     {
       "id": "Tamghart - Women",
       "name": "Tamghart   women",
