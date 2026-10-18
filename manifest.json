@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "last_updated": "2026-10-18",
   "categories": [
     {
@@ -245,42 +245,6 @@
             "Tazuri - Art"
           ],
           "added_at": "2026-10-13"
-        },
-        {
-          "id": "Ijeddigen-compressed",
-          "title": "Ijeddigen compressed",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Ijeddigen-compressed.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Ijeddigen-compressed.webp",
-          "width": 1459,
-          "height": 2614,
-          "tags": [
-            "Tazuri - Art"
-          ],
-          "added_at": "2026-10-18"
-        },
-        {
-          "id": "Irchumen-compressed",
-          "title": "Irchumen compressed",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Irchumen-compressed.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Irchumen-compressed.webp",
-          "width": 1459,
-          "height": 2614,
-          "tags": [
-            "Tazuri - Art"
-          ],
-          "added_at": "2026-10-18"
-        },
-        {
-          "id": "Princesse du desert-compressed",
-          "title": "Princesse du desert compressed",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Princesse du desert-compressed.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Princesse du desert-compressed.webp",
-          "width": 1506,
-          "height": 2675,
-          "tags": [
-            "Tazuri - Art"
-          ],
-          "added_at": "2026-10-18"
         },
         {
           "id": "Respect-Achenyal",
