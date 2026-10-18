@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "last_updated": "2026-10-18",
   "categories": [
     {
@@ -269,18 +269,6 @@
             "Tazuri - Art"
           ],
           "added_at": "2026-10-13"
-        },
-        {
-          "id": "Tafoukt-compressed",
-          "title": "Tafoukt compressed",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tafoukt-compressed.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tafoukt-compressed.webp",
-          "width": 1459,
-          "height": 2614,
-          "tags": [
-            "Tazuri - Art"
-          ],
-          "added_at": "2026-10-18"
         },
         {
           "id": "Tahendirt",
