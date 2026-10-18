@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "last_updated": "2026-10-13",
+  "version": 26,
+  "last_updated": "2026-10-18",
   "categories": [
     {
       "id": "Tamghart - Women",
@@ -169,6 +169,54 @@
           "added_at": "2026-10-13"
         },
         {
+          "id": "Ajeddig n lhenna-compressed",
+          "title": "Ajeddig n lhenna compressed",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Ajeddig n lhenna-compressed.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Ajeddig n lhenna-compressed.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Ijeddigen-compressed",
+          "title": "Ijeddigen compressed",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Ijeddigen-compressed.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Ijeddigen-compressed.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Irchumen-compressed",
+          "title": "Irchumen compressed",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Irchumen-compressed.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Irchumen-compressed.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Princesse du desert-compressed",
+          "title": "Princesse du desert compressed",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Princesse du desert-compressed.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Princesse du desert-compressed.webp",
+          "width": 1506,
+          "height": 2675,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
           "id": "Respect-Achenyal",
           "title": "Respect achenyal",
           "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Respect-Achenyal.webp",
@@ -191,6 +239,30 @@
             "Tazuri - Art"
           ],
           "added_at": "2026-10-13"
+        },
+        {
+          "id": "Tafoukt-compressed",
+          "title": "Tafoukt compressed",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tafoukt-compressed.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tafoukt-compressed.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Tagldunt n tanezruft-compressed",
+          "title": "Tagldunt n tanezruft compressed",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tagldunt n tanezruft-compressed.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tagldunt n tanezruft-compressed.webp",
+          "width": 1504,
+          "height": 2675,
+          "tags": [
+            "Tazuri - Art"
+          ],
+          "added_at": "2026-10-18"
         },
         {
           "id": "Tahendirt",
