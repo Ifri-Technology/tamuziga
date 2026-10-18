@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "last_updated": "2026-10-18",
   "categories": [
     {
@@ -277,18 +277,6 @@
           "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tafoukt-compressed.webp",
           "width": 1459,
           "height": 2614,
-          "tags": [
-            "Tazuri - Art"
-          ],
-          "added_at": "2026-10-18"
-        },
-        {
-          "id": "Tagldunt n tanezruft-compressed",
-          "title": "Tagldunt n tanezruft compressed",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Tagldunt n tanezruft-compressed.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Tagldunt n tanezruft-compressed.webp",
-          "width": 1504,
-          "height": 2675,
           "tags": [
             "Tazuri - Art"
           ],
