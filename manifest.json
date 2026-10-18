@@ -1,7 +1,181 @@
 {
-  "version": 33,
+  "version": 34,
   "last_updated": "2026-10-18",
   "categories": [
+    {
+      "id": "Ijeddigen-Flowers",
+      "name": "Ijeddigen flowers",
+      "wallpapers": [
+        {
+          "id": "1",
+          "title": "1",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/1.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/1.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "10",
+          "title": "10",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/10.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/10.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "11",
+          "title": "11",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/11.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/11.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "2",
+          "title": "2",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/2.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/2.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "3",
+          "title": "3",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/3.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/3.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "4",
+          "title": "4",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/4.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/4.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "5",
+          "title": "5",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/5.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/5.webp",
+          "width": 768,
+          "height": 1376,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "6",
+          "title": "6",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/6.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/6.webp",
+          "width": 768,
+          "height": 1376,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "7",
+          "title": "7",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/7.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/7.webp",
+          "width": 848,
+          "height": 1264,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "8",
+          "title": "8",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/8.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/8.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "9",
+          "title": "9",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/9.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/9.webp",
+          "width": 768,
+          "height": 1376,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Assif",
+          "title": "Assif",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/Assif.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/Assif.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Ouzoud",
+          "title": "Ouzoud",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/Ouzoud.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/Ouzoud.webp",
+          "width": 768,
+          "height": 1376,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Tighremt",
+          "title": "Tighremt",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/thumbs/Tighremt.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Ijeddigen-Flowers/full/Tighremt.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Ijeddigen-Flowers"
+          ],
+          "added_at": "2026-10-18"
+        }
+      ]
+    },
     {
       "id": "Imucca - Cats",
       "name": "Imucca   cats",
