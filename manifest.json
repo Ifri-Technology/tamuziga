@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "last_updated": "2026-10-18",
   "categories": [
     {
@@ -249,6 +249,36 @@
           "height": 2614,
           "tags": [
             "Imucca - Cats"
+          ],
+          "added_at": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "id": "Tagherma - Civilisation",
+      "name": "Tagherma   civilisation",
+      "wallpapers": [
+        {
+          "id": "Koutoubia",
+          "title": "Koutoubia",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma - Civilisation/thumbs/Koutoubia.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma - Civilisation/full/Koutoubia.webp",
+          "width": 1459,
+          "height": 2404,
+          "tags": [
+            "Tagherma - Civilisation"
+          ],
+          "added_at": "2026-10-18"
+        },
+        {
+          "id": "Montage",
+          "title": "Montage",
+          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma - Civilisation/thumbs/Montage.webp",
+          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tagherma - Civilisation/full/Montage.webp",
+          "width": 1459,
+          "height": 2614,
+          "tags": [
+            "Tagherma - Civilisation"
           ],
           "added_at": "2026-10-18"
         }
