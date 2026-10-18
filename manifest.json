@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "last_updated": "2026-10-18",
   "categories": [
     {
@@ -245,18 +245,6 @@
             "Tazuri - Art"
           ],
           "added_at": "2026-10-13"
-        },
-        {
-          "id": "Ajeddig n lhenna-compressed",
-          "title": "Ajeddig n lhenna compressed",
-          "thumbnail_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/thumbs/Ajeddig n lhenna-compressed.webp",
-          "full_url": "https://cdn.jsdelivr.net/gh/Ifri-Technology/tamuziga@main/images/Tazuri - Art/full/Ajeddig n lhenna-compressed.webp",
-          "width": 1459,
-          "height": 2614,
-          "tags": [
-            "Tazuri - Art"
-          ],
-          "added_at": "2026-10-18"
         },
         {
           "id": "Ijeddigen-compressed",
